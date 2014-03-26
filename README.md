@@ -3,14 +3,10 @@ Programs
 
 A list of programs for a new computer
 
-
-
-
 * bash_profile:  
-  - subl as sublime editor
-  - personalized user
-  - color scheme
-  - 
+  subl as sublime editor
+  personalized user
+  color scheme
   
 * Sublime profile
 
