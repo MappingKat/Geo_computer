@@ -15,6 +15,8 @@ A list of programs for a new computer
 * XTools
 * Command Line Tools
 * Node
+* grunt
+* npm
 * Ruby
 * Phonegap
 * LibreOffice
